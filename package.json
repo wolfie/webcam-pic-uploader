@@ -1,0 +1,14 @@
+{
+  "name": "webcam-pic-uploader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "node-webcam": "^0.4.6",
+    "pretty-bytes": "^5.2.0",
+    "request": "^2.88.0"
+  },
+  "scripts": {
+    "start": "node src"
+  }
+}
